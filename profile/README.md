@@ -1,12 +1,19 @@
 ## Hi there 👋
 
-<!--
+# Legal Notice (Imprint)
 
-**Here are some ideas to get you started:**
+## Information pursuant to Section 5 TMG
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+kieks.me GbR Hardenbergstraße 48 04275 Leipzig Germany
+
+Represented by the partners: André Lademann, Thomas Schöne
+
+## Contact
+
+Email: [kontakt@kieks.me](mailto:kontakt@kieks.me) Phone: +49 170 7353 067
+
+VAT Identification Number pursuant to Section 27a of the German VAT Act (UStG): DE123456789
+
+Responsible for content pursuant to Section 55 (2) of the German Interstate Broadcasting Treaty (RStV): André Lademann, Thomas Schöne Hardenbergstraße 48 04275 Leipzig Germany
+
+
